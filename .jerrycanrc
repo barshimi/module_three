@@ -1,0 +1,15 @@
+{
+  "module": {
+    "name": "module_three",
+    "stack": "react",
+    "type": "view"
+  },
+  "route": {
+    "urlLocation": "/module_three",
+    "path": "module_three",
+    "directory_path": "module_one/ModuleThree"
+  },
+  "global_types": [],
+  "globalCycle": [],
+  "middlewares": []
+}
