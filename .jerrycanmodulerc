@@ -9,7 +9,13 @@
     "path": "module_three",
     "directory_path": "module_one/ModuleThree"
   },
-  "global_types": [],
+  "global_types": [
+    {
+      "globalName": "newTest",
+      "globalType": "number",
+      "initialState": 5
+    }
+  ],
   "globalCycle": [],
   "middlewares": []
 }
